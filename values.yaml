@@ -4,6 +4,6 @@ application:
   port: 3000
   replicas: 1
   language: go
-  applicationRepo: https://github.com/bernardolsp/go-todo.git
+  applicationRepo: https://github.com/samuelamaralls/go-todo.git
   yamlRepo: github.com/bernardolsp/aulao-pipeline.git
   containerRepository: devlopesbernardo/go-todo
